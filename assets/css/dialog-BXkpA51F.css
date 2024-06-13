@@ -1,0 +1,1 @@
+.required-label .el-form-item__label:after{content:"*";color:red;margin-left:4px}.upload-demo{width:100%}.el-upload__text{color:#409eff}.el-upload__tip{color:#909399}@media (max-width: 600px){.success-button{margin-left:35%}}@media (min-width: 601px) and (max-width: 1024px){.success-button{margin-left:43%}}@media (min-width: 1025px){.success-button{margin-left:43%}}

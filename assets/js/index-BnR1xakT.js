@@ -1,0 +1,1 @@
+import{s as r}from"./index-Db6VnN3C.js";function t(){return{signIn:e=>r({url:"/api/base/login",method:"post",data:e}),signOut:e=>r({url:"/user/signOut",method:"post",data:e}),register:e=>r({url:"/api/base/register",method:"post",data:e}),getCode:e=>r({url:"/api/base/register/sendMessage",method:"post",data:e})}}export{t as u};

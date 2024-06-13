@@ -1,0 +1,1 @@
+import{c as t}from"./index-Db6VnN3C.js";const r="http://47.93.19.22:8000";function c(){let e=r+"/api/manage/search";return t.withAuth(t.GET,e,{})}function u(e,a){let n=r+"/api/manage/search/details";return t.withAuth(t.POST,n,{data:{week_num:e,time_index:a}})}function l(e){let a=r+"/api/manage/reject";return t.withAuth(t.POST,a,{data:e})}export{u as a,c as g,l as r};
